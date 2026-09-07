@@ -6,7 +6,7 @@
 
 I design digital products that make complex experiences easier to understand, navigate, and use.
 
-[Portfolio](https://renydesigns.framer.website/) · [Email](mailto:reny.dennys@gmail.com) · [LinkedIn](https://www.linkedin.com/)
+[Portfolio](https://renydesigns.framer.website/) · [LinkedIn](https://www.linkedin.com/)
 
 </div>
 
@@ -24,7 +24,7 @@ I've worked across **automotive, enterprise, community platforms, and consumer e
 
 **AI · Zero UI · HMI · Emerging Interfaces · Automotive UX · Enterprise UX · Growth Design**
 
-I'm interested in designing for problems that aren't completely defined yet — bringing **research, interaction, and visual design** together to make new experiences feel intuitive.
+I'm interested in designing for problems that aren't completely defined yet, bringing **research, interaction, and visual design** together to make new experiences feel intuitive.
 
 ---
 
